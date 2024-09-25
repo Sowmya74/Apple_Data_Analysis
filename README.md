@@ -6,7 +6,7 @@ This project involves a comprehensive data pipeline, from web scraping to data v
 
 ![Apple Sales Analysis Dashboard](./Apple_Data_Analysis_Dashboard.png)
 
-[View Interactive Dashboard]([https://example.com/apple_dashboard_link](https://public.tableau.com/views/Apple_Data_Analysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Interactive Dashboard](https://public.tableau.com/views/Apple_Data_Analysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Workflow
 
